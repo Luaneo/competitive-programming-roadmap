@@ -73,7 +73,7 @@ int main()
 			bessie.second.erase(it_bessie);
 		}
 	}
-
+	
 	cout << res << '\n';
 	return 0;
 }
